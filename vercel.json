@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/script.lua",
-      "destination": "/script.lua.js"
+      "destination": "/api/script.lua"
     }
   ]
 }
