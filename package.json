@@ -1,8 +1,14 @@
 {
-  "name": "culthub-loader",
+  "name": "culthub",
   "version": "1.0.0",
-  "description": "Protected loader",
+  "description": "Roblox script loader",
   "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": ["roblox", "script", "loader"],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
