@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/script.lua",
+      "destination": "/script.lua.js"
+    }
+  ]
+}
